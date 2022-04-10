@@ -1,5 +1,6 @@
-# RFID
-Collective knowledgebase of RFID, tips tricks and workarounds for certain limitations 
+# Novus
+
+General Knowledge-base if youve been referred here it's probably for a good reason :)
 
 
 | Github | Twitter |
