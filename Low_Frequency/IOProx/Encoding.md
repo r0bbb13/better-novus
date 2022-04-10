@@ -12,3 +12,5 @@ When writing an ioprox to a t5577, the facility code is written as decimal so wh
 
 `lf io clone --vn 01 --fc 88 --cn 54738` should produce:
 ![image](https://user-images.githubusercontent.com/72751518/162636381-54534e91-ebde-4b68-a3df-92ba4a02f9ef.png)
+
+*Have any questions or want to contribute to this doc add me on Discord, Equip#1515*
