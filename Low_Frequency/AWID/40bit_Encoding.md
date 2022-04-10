@@ -21,3 +21,5 @@ the commands below, written to a wiped t5577 produce a 40-bit AWID tag identicia
 `lf t55 write -b 2 -d 81b1818d --r0`
 
 `lf t55 write -b 3 -d 1d111111 --r0`
+
+*Have any questions or want to contribute to this doc add me on Discord, Equip#1515*
