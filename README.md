@@ -4,9 +4,9 @@
 General "Data Dump" of information, files, FAQs and photos 
 
 
-| Github | Twitter | Repo Size |
-|:------:|:-------:|:---------:|
-|![GitHub followers](https://img.shields.io/github/followers/equipter?label=Equipter%20&logo=GitHub&style=flat-square)|![Twitter Follow](https://img.shields.io/twitter/follow/equip0x80?color=b9d1ff&label=Equip0x80&logo=Twitter&style=flat-square)|![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/equipter/novus?label=Repo%20Size&logo=github&style=flat-square)
+| Github | Twitter | Repo Size | License |
+|:------:|:-------:|:---------:|:-------:|
+|![GitHub followers](https://img.shields.io/github/followers/equipter?label=Equipter%20&logo=GitHub&style=flat-square)|![Twitter Follow](https://img.shields.io/twitter/follow/equip0x80?color=b9d1ff&label=Equip0x80&logo=Twitter&style=flat-square)|![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/equipter/novus?label=Repo%20Size&logo=github&style=flat-square) | ![GitHub](https://img.shields.io/github/license/equipter/novus?color=aceeff&logo=github&style=flat-square)
 ---
 
 ## Table of contents 
