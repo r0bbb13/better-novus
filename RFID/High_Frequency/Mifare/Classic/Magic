@@ -1,0 +1,16 @@
+What is "Magic"?
+
+A magic card that has a "magic backdoor". These cards are not made by mifare themselves, they are made by a third party. The backdoor allows the UID of the card to be rewritten, which makes them ideal for being cloned to. Usually access systems will read the UID of the card, check if it is on the approved list, and then grant access if it is. Some access systems, such as hotels, will have other information in other sectors that the access system reads, however that will also be paired with the UID to allow access. Since regular MFC cards cannot have the UID changed, they can not be cloned to.
+
+Magic Backdoor cards also have the benefit that they are incredibly hard to brick. Deleting the access conditions of a regular MFC card will cause the card to be unuseable, since there are no longer any keys to access the card. If the Access System is UID only then the card can still be used, since the Access System will only read the UID, and you do not need any keys to read the UID of a card. With a proxmark, if you delete the access bits of a Magic card, you can simply do 'hf mf cwipe' and the access bits (along with the rest of the card) will be reset back to default values, and the card will be fully useable again. 
+
+There are several different generations of Magic Cards, and these have arisen as readers have gained detection for magic cards.
+
+GEN1 
+Gen1 magic cards were the first generation of magic cards, and these are fairly easily detected, however there are still a lot of access systems that do not have this detection in place, so they are still very useful.
+
+GEN2 
+This is the second generation of magic cards, and they have been created to bypass Gen1 detection. Gen2 cards can be rewritten infinite times, however if an invalid block0 is written to the card then it will be bricked. As you go up the Generations you need to be more careful when writing to cards, as there is a higher potential that they could be bricked.
+
+Gen3
+Gen3 cards are very hard to detect, however a huge downside to these cards is that they can only be written to once.
