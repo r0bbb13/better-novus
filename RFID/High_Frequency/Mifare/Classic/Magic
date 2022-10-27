@@ -13,4 +13,6 @@ GEN2
 This is the second generation of magic cards, and they have been created to bypass Gen1 detection. Gen2 cards can be rewritten infinite times, however if an invalid block0 is written to the card then it will be bricked. As you go up the Generations you need to be more careful when writing to cards, as there is a higher potential that they could be bricked.
 
 Gen3
-Gen3 cards are very hard to detect, however a huge downside to these cards is that they can only be written to once.
+Gen3 cards are very hard to detect, however a huge downside to these cards is that they can only be written to once. You should be very careful when writing to a gen3 card because if you mess it up then that card is unuseable forever
+
+
