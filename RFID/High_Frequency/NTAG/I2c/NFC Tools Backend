@@ -1,0 +1,5 @@
+One thing that you should never do with NFC Tools is set a password on a tag, this is a very easy way to lose access to a tag. The password will often not work
+on even the same app and phone, This is the most important advice to remember if you have one of these tags implanted. 
+
+NFC Tools is slightly disingenious when editing tags and reading them, the data shown is often not the full story. When reading the information on the tag,
+NFC Tools will show 
